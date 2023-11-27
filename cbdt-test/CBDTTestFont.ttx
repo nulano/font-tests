@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ttFont sfntVersion="\x00\x01\x00\x00">
+    <GlyphOrder>
+        <GlyphID id="0" name=".notdef"/>
+        <GlyphID id="1" name="A"/>
+        <GlyphID id="2" name="B"/>
+    </GlyphOrder>
+
+    <cmap>
+        <tableVersion version="0"/>
+        <cmap_format_6 platformID="0" platEncID="3" language="0">
+            <map code="0x41" name="A"/>
+            <map code="0x42" name="B"/>
+        </cmap_format_6>
+    </cmap>
+
+    <head>
+        <!-- Most of this table will be recalculated by the compiler -->
+        <tableVersion value="1.0"/>
+        <fontRevision value="1.0"/>
+        <checkSumAdjustment value="0"/>
+        <magicNumber value="0x5F0F3CF5"/>
+        <flags value="00000000 00001011"/>
+        <unitsPerEm value="2048"/>
+        <created value="Sun Nov 26 23:59:59 2023"/>
+        <modified value="Sun Nov 26 23:59:59 2023"/>
+        <xMin value="0"/>
+        <yMin value="0"/>
+        <xMax value="2048"/>
+        <yMax value="2048"/>
+        <macStyle value="00000000 00000000"/>
+        <lowestRecPPEM value="8"/>
+        <fontDirectionHint value="2"/>
+        <indexToLocFormat value="0"/>
+        <glyphDataFormat value="0"/>
+    </head>
+
+    <hhea>
+        <tableVersion value="0x00010000"/>
+        <ascent value="2048"/>
+        <descent value="0"/>
+        <lineGap value="0"/>
+        <advanceWidthMax value="1024"/>
+        <minLeftSideBearing value="0"/>
+        <minRightSideBearing value="0"/>
+        <xMaxExtent value="2048"/>
+        <caretSlopeRise value="1"/>
+        <caretSlopeRun value="0"/>
+        <caretOffset value="0"/>
+        <reserved0 value="0"/>
+        <reserved1 value="0"/>
+        <reserved2 value="0"/>
+        <reserved3 value="0"/>
+        <metricDataFormat value="0"/>
+        <numberOfHMetrics value="2"/>
+    </hhea>
+
+    <hmtx>
+        <mtx name=".notdef" width="2048" lsb="0"/>
+        <mtx name="A" width="1024" lsb="0"/>
+        <mtx name="B" width="1024" lsb="0"/>
+    </hmtx>
+
+    <maxp>
+        <!-- Most of this table will be recalculated by the compiler -->
+        <tableVersion value="0x10000"/>
+        <numGlyphs value="3"/>
+        <maxPoints value="8"/>
+        <maxContours value="2"/>
+        <maxCompositePoints value="0"/>
+        <maxCompositeContours value="0"/>
+        <maxZones value="2"/>
+        <maxTwilightPoints value="0"/>
+        <maxStorage value="1"/>
+        <maxFunctionDefs value="1"/>
+        <maxInstructionDefs value="0"/>
+        <maxStackElements value="64"/>
+        <maxSizeOfInstructions value="46"/>
+        <maxComponentElements value="0"/>
+        <maxComponentDepth value="0"/>
+    </maxp>
+
+    <name>
+        <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+            This work is dedicated to the public domain.
+        </namerecord>
+        <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+            CBDT Test Font
+        </namerecord>
+        <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+            Regular
+        </namerecord>
+        <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+            CBDT Test Font
+        </namerecord>
+        <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+            CBDT Test Font
+        </namerecord>
+        <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+            Version 1.0
+        </namerecord>
+        <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+            CBDTTestFont
+        </namerecord>
+        <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+            Nulano
+        </namerecord>
+        <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+            Nulano
+        </namerecord>
+        <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+            Test font in CBDT format.
+        </namerecord>
+        <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+            https://github.com/nulano/font-tests/cbdt-test
+        </namerecord>
+        <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+            https://github.com/nulano/font-tests/cbdt-test
+        </namerecord>
+        <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+            This work is dedicated to the public domain.
+        </namerecord>
+        <namerecord nameID="19" platformID="3" platEncID="1" langID="0x409">
+            AB
+        </namerecord>
+    </name>
+
+    <OS_2>
+        <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+             will be recalculated by the compiler -->
+        <version value="4"/>
+        <xAvgCharWidth value="2048"/>
+        <usWeightClass value="400"/>
+        <usWidthClass value="5"/>
+        <fsType value="00000000 00000000"/>
+        <ySubscriptXSize value="1024"/>
+        <ySubscriptYSize value="1024"/>
+        <ySubscriptXOffset value="0"/>
+        <ySubscriptYOffset value="0"/>
+        <ySuperscriptXSize value="1024"/>
+        <ySuperscriptYSize value="1024"/>
+        <ySuperscriptXOffset value="0"/>
+        <ySuperscriptYOffset value="1024"/>
+        <yStrikeoutSize value="128"/>
+        <yStrikeoutPosition value="512"/>
+        <sFamilyClass value="0"/>
+        <panose>
+            <bFamilyType value="2"/>
+            <bSerifStyle value="0"/>
+            <bWeight value="6"/>
+            <bProportion value="9"/>
+            <bContrast value="0"/>
+            <bStrokeVariation value="0"/>
+            <bArmStyle value="0"/>
+            <bLetterForm value="0"/>
+            <bMidline value="0"/>
+            <bXHeight value="0"/>
+        </panose>
+        <ulUnicodeRange1 value="00000000 00000000 00000000 00000001"/>
+        <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+        <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+        <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+        <achVendID value="    "/>
+        <fsSelection value="00000000 01000000"/>
+        <usFirstCharIndex value="0x41"/>
+        <usLastCharIndex value="0x42"/>
+        <sTypoAscender value="2048"/>
+        <sTypoDescender value="0"/>
+        <sTypoLineGap value="0"/>
+        <usWinAscent value="2048"/>
+        <usWinDescent value="0"/>
+        <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+        <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+        <sxHeight value="0"/>
+        <sCapHeight value="2048"/>
+        <usDefaultChar value="0"/>
+        <usBreakChar value="32"/>
+        <usMaxContext value="1"/>
+    </OS_2>
+
+    <post>
+        <formatType value="3.0"/>
+        <italicAngle value="0.0"/>
+        <underlinePosition value="0"/>
+        <underlineThickness value="128"/>
+        <isFixedPitch value="1"/>
+        <minMemType42 value="0"/>
+        <maxMemType42 value="0"/>
+        <minMemType1 value="0"/>
+        <maxMemType1 value="0"/>
+    </post>
+
+    <CBLC>
+        <header version="3.0"/>
+        <strike index="0">
+            <bitmapSizeTable>
+                <sbitLineMetrics direction="hori">
+                    <ascender value="64"/>
+                    <descender value="0"/>
+                    <widthMax value="64"/>
+                    <caretSlopeNumerator value="0"/>
+                    <caretSlopeDenominator value="0"/>
+                    <caretOffset value="0"/>
+                    <minOriginSB value="0"/>
+                    <minAdvanceSB value="0"/>
+                    <maxBeforeBL value="0"/>
+                    <minAfterBL value="0"/>
+                    <pad1 value="0"/>
+                    <pad2 value="0"/>
+                </sbitLineMetrics>
+                <sbitLineMetrics direction="vert">
+                    <ascender value="64"/>
+                    <descender value="0"/>
+                    <widthMax value="64"/>
+                    <caretSlopeNumerator value="0"/>
+                    <caretSlopeDenominator value="0"/>
+                    <caretOffset value="0"/>
+                    <minOriginSB value="0"/>
+                    <minAdvanceSB value="0"/>
+                    <maxBeforeBL value="0"/>
+                    <minAfterBL value="0"/>
+                    <pad1 value="0"/>
+                    <pad2 value="0"/>
+                </sbitLineMetrics>
+                <colorRef value="0"/>
+                <startGlyphIndex value="1"/>
+                <endGlyphIndex value="2"/>
+                <ppemX value="64"/>
+                <ppemY value="64"/>
+                <bitDepth value="32"/>
+                <flags value="1"/>
+            </bitmapSizeTable>
+            <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="1" lastGlyphIndex="2">
+                <glyphLoc id="1" name="A"/>
+                <glyphLoc id="2" name="B"/>
+            </eblc_index_sub_table_1>
+        </strike>
+    </CBLC>
+
+    <CBDT>
+        <header version="3.0"/>
+        <strikedata index="0">
+            <cbdt_bitmap_format_17 name="A">
+                <SmallGlyphMetrics>
+                    <height value="64"/>
+                    <width value="64"/>
+                    <BearingX value="0"/>
+                    <BearingY value="64"/>
+                    <Advance value="32"/>
+                </SmallGlyphMetrics>
+                <extfileimagedata value="A.png"/>
+            </cbdt_bitmap_format_17>
+            <cbdt_bitmap_format_17 name="B">
+                <SmallGlyphMetrics>
+                    <height value="64"/>
+                    <width value="64"/>
+                    <BearingX value="0"/>
+                    <BearingY value="64"/>
+                    <Advance value="32"/>
+                </SmallGlyphMetrics>
+                <extfileimagedata value="B.png"/>
+            </cbdt_bitmap_format_17>
+        </strikedata>
+    </CBDT>
+
+</ttFont>
