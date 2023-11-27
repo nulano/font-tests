@@ -111,10 +111,10 @@
             Test font in EBDT format.
         </namerecord>
         <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
-            https://github.com/nulano/font-tests/ebdt-test
+            https://github.com/nulano/font-tests/tree/main/ebdt-test
         </namerecord>
         <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
-            https://github.com/nulano/font-tests/ebdt-test
+            https://github.com/nulano/font-tests/tree/main/ebdt-test
         </namerecord>
         <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
             This work is dedicated to the public domain.
